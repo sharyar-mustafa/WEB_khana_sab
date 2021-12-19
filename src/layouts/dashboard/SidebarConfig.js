@@ -22,11 +22,11 @@ const sidebarConfig = [
     path: '/dashboard/user',
     icon: getIcon(peopleFill)
   },
-  {
-    title: 'Branch Manager',
-    path: '/dashboard/products',
-    icon: getIcon(shoppingBagFill)
-  },
+  // {
+  //   title: 'Branch Manager',
+  //   path: '/dashboard/products',
+  //   icon: getIcon(shoppingBagFill)
+  // },
   // {
   //   title: 'blog',
   //   path: '/dashboard/blog',
